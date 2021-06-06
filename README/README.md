@@ -15,17 +15,12 @@ _This is a webpage designed to practice the usage of CSS styling as well as git 
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Internet Connection
 
 
 ## Known Bugs
 
 * Images from phone to computer through airdrop do not seem to work
-* 
 
 ## 
 Copyright <YEAR> <COPYRIGHT HOLDER>
