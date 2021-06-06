@@ -1,15 +1,21 @@
-h1{
+.h1{
   color:red;
   text-align: center;
 }
 
-h4{
+.h4{
   color:red;
   text-align: center;
   font-style: italic;
 }
+.column {
+  width: 50%;
+  height: 300;
+  float: left;
+}
 
-img {
+
+.img {
   width: 400px;
   float: center;
 }
