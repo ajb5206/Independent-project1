@@ -1,13 +1,14 @@
-.h1{
+h1{
   color:red;
   text-align: center;
 }
 
-.h4{
+h4{
   color:red;
   text-align: center;
   font-style: italic;
 }
+
 .column {
   width: 50%;
   height: 300;
@@ -15,7 +16,8 @@
 }
 
 
-.img {
+img {
   width: 400px;
+  height: 300px;
   float: center;
 }
