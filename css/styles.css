@@ -9,6 +9,11 @@ h6{
   font-family: Verdana;
 }
 
+h5{
+  text-align: center;
+  color:blueviolet;
+  font-family: Calibri; 
+}
 h3{
   text align: center;
 }
@@ -29,4 +34,8 @@ img {
   width: 400px;
   height: 300px;
   float: center;
+}
+
+.highlight {
+  color: blue;
 }
