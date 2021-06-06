@@ -9,6 +9,7 @@ h4{
   font-style: italic;
 }
 
-div {
-  width: 50%;
+img {
+  width: 400px;
+  float: center;
 }
