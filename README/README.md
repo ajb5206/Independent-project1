@@ -16,7 +16,12 @@ _This is a webpage designed to practice the usage of CSS styling as well as git 
 ## Setup/Installation Requirements
 
 * Internet Connection
-
+* Visit https://github.com/ajb5206/Independent-project1
+* Copy repository URL
+* Open terminal
+* Create a new directory
+* Initial git inside new directory
+* Run "git clone https://github.com/ajb5206/Independent-project1" in your designated directory
 
 ## Known Bugs
 
