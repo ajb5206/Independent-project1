@@ -1,6 +1,7 @@
 # _Independent Project 1_
 
 #### By _**Alex Bertotto**_
+https://ajb5206.github.io/Independent-project1/
 
 ## Technologies Used
 
