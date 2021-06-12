@@ -9,6 +9,10 @@ h6{
   font-family: Verdana;
 }
 
+p {
+  font-family: fantasy;
+  text-align: center;
+}
 h5{
   text-align: center;
   color:blueviolet;
