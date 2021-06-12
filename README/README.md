@@ -20,8 +20,11 @@ _This is a webpage designed to practice the usage of CSS styling as well as git 
 * Copy repository URL
 * Open terminal
 * Create a new directory
-* Initial git inside new directory
+* Initialize git inside new directory
 * Run "git clone https://github.com/ajb5206/Independent-project1" in your designated directory
+* Enter "git remote rm IP1" in the terminal to remove the remote attached
+* Enter "git remote add origin [your-project-url-here]
+* Push your newly updated code
 
 ## Known Bugs
 
